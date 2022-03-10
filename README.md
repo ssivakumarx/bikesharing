@@ -1,2 +1,2 @@
 # bikesharing
-A Linear regression model for bikes haring case study
+A Linear regression model for bikes sharing case study
